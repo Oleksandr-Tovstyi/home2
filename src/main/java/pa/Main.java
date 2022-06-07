@@ -2,8 +2,7 @@ package pa;
 
 public class Main {
     public static void main(String[] args) {
-        Football f = new Football();
-        System.out.println(f.matchResult(1, 1, 1, 2));
-        // bla bla
+        String[] s = {"wake up", "have breakfast", "go to work", "solve 5 tasks from codewars"};
+        System.out.println(DailyPlan.createDailyPlan(s));
     }
 }
