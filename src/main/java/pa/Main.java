@@ -5,5 +5,4 @@ public class Main {
         Football f = new Football();
         System.out.println(f.matchResult(1, 1, 1, 2));
     }
-    // bla bla
 }
