@@ -1,4 +1,4 @@
-package pa.pack;
+package pa;
 
 public class NewYear {
 
