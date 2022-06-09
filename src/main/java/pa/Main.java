@@ -7,7 +7,12 @@ public class Main {
         System.out.println(DailyPlan.createDailyPlan(s));
          */
 
-        //Test for DoubleNumber
+        /* Test for DoubleNumber
         System.out.println(DoubledNumber.getDoubledNumber(11));
+         */
+
+        // Tesr for BinaryString
+        BinaryString binaryConverter = new BinaryString();
+        System.out.println(binaryConverter.toBinaryString(-11));
     }
 }
